@@ -5,3 +5,6 @@
 /RabbitMQConsumer/obj
 /RabbitMQConsumer/bin/Debug/netcoreapp3.1
 /RabbitMQConsumer/.vs/RabbitMQConsumer/v16
+/RabbitMQPublisher/obj
+/RabbitMQPublisher/bin/Debug/netcoreapp3.1
+/RabbitMQPublisher/.vs/RabbitMQPublisher/v16
