@@ -11,3 +11,7 @@
 /RedisPublisher/obj
 /RedisPublisher/bin/Debug/netcoreapp3.1
 /RedisPublisher/.vs/RedisPublisher
+/TemplateMethodPattern/obj
+/TemplateMethodPattern/bin/Debug/net5.0
+/TemplateMethodPattern/.vs/TemplateMethodPattern
+/.vs
