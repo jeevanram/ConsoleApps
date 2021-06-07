@@ -8,3 +8,6 @@
 /RabbitMQPublisher/obj
 /RabbitMQPublisher/bin/Debug/netcoreapp3.1
 /RabbitMQPublisher/.vs/RabbitMQPublisher/v16
+/RedisPublisher/obj
+/RedisPublisher/bin/Debug/netcoreapp3.1
+/RedisPublisher/.vs/RedisPublisher
