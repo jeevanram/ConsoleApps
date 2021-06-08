@@ -2,15 +2,15 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/RabbitMQConsumer/obj
-/RabbitMQConsumer/bin/Debug/netcoreapp3.1
-/RabbitMQConsumer/.vs/RabbitMQConsumer/v16
-/RabbitMQPublisher/obj
-/RabbitMQPublisher/bin/Debug/netcoreapp3.1
-/RabbitMQPublisher/.vs/RabbitMQPublisher/v16
-/RedisPublisher/obj
-/RedisPublisher/bin/Debug/netcoreapp3.1
-/RedisPublisher/.vs/RedisPublisher
+/RabbitMQ/RabbitMQConsumer/obj
+/RabbitMQ/RabbitMQConsumer/bin/Debug/netcoreapp3.1
+/RabbitMQ/RabbitMQConsumer/.vs/RabbitMQConsumer/v16
+/RabbitMQ/RabbitMQPublisher/obj
+/RabbitMQ/RabbitMQPublisher/bin/Debug/netcoreapp3.1
+/RabbitMQ/RabbitMQPublisher/.vs/RabbitMQPublisher/v16
+/Redis/RedisPublisher/obj
+/Redis/RedisPublisher/bin/Debug/netcoreapp3.1
+/Redis/RedisPublisher/.vs/RedisPublisher
 /TemplateMethodPattern/obj
 /TemplateMethodPattern/bin/Debug/net5.0
 /TemplateMethodPattern/.vs/TemplateMethodPattern
