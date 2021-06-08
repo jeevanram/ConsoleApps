@@ -9,6 +9,6 @@ The Abstract class defines the steps that are invariant across the implementatio
 
 For example, An interview process will have invariant steps like Resume Screening, Initial HR process, and Offer Negotiation and variant steps namely Technical Discussion, Bar Raiser, and Manager Discussion.
 
-![image](https://user-images.githubusercontent.com/5312171/121113115-18a08080-c7d7-11eb-9dc8-45b5d4bc2891.png)
+![image](https://user-images.githubusercontent.com/5312171/121113297-6ae1a180-c7d7-11eb-9444-e708e59d7ec2.png)
 
 
