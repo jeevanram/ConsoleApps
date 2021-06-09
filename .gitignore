@@ -15,3 +15,6 @@
 /TemplateMethodPattern/bin/Debug/net5.0
 /TemplateMethodPattern/.vs/TemplateMethodPattern
 /.vs
+/Redis/RedisSubscriber/obj
+/Redis/RedisSubscriber/bin/Debug/netcoreapp3.1
+/Redis/RedisSubscriber/.vs/RedisSubscriber
