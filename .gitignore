@@ -15,3 +15,7 @@
 /TemplateMethodPattern/bin/Debug/net5.0
 /TemplateMethodPattern/.vs/TemplateMethodPattern
 /.vs
+/DependencyInjectionWithXUnitTest/TestResults
+/DependencyInjectionWithXUnitTest/UnitTest/obj
+/DependencyInjectionWithXUnitTest/DependencyInjectionWithXUnitTest/obj
+/DependencyInjectionWithXUnitTest/.vs/DependencyInjectionWithXUnitTest/v16
