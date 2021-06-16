@@ -25,3 +25,6 @@
 /CoreWebAPIWithTelemetry/.vs/CoreWebAPIWithTelemetry
 /CoreWebAPIWithTelemetry/CoreWebAPIWithTelemetry/bin/Debug/net5.0
 /CoreWebAPIWithTelemetry/CoreWebAPIWithTelemetry/obj
+/KeyGeneratorService/KeyGeneratorService/obj
+/KeyGeneratorService/KeyGeneratorService/bin/Debug/net5.0
+/KeyGeneratorService/.vs/KeyGeneratorService/v16
