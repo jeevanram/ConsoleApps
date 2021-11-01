@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftExchangeProblem", "GiftExchangeProblem.csproj", "{A6437068-E2F5-40F9-9A91-53F6A7E367A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftExchangeProblem.Test", "..\GiftExchangeProblem.Test\GiftExchangeProblem.Test.csproj", "{11CC2EB2-C3AF-4E51-B18F-59CE3858C0F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6437068-E2F5-40F9-9A91-53F6A7E367A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6437068-E2F5-40F9-9A91-53F6A7E367A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6437068-E2F5-40F9-9A91-53F6A7E367A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6437068-E2F5-40F9-9A91-53F6A7E367A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11CC2EB2-C3AF-4E51-B18F-59CE3858C0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CC2EB2-C3AF-4E51-B18F-59CE3858C0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CC2EB2-C3AF-4E51-B18F-59CE3858C0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CC2EB2-C3AF-4E51-B18F-59CE3858C0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7DC4150-4CDF-4E01-809A-A8F3D730E6FD}
+	EndGlobalSection
+EndGlobal
