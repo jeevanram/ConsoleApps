@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRUCache", "LRUCache.csproj", "{DDAC1FE4-4541-4314-9AF7-B81035F46567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDAC1FE4-4541-4314-9AF7-B81035F46567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAC1FE4-4541-4314-9AF7-B81035F46567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAC1FE4-4541-4314-9AF7-B81035F46567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAC1FE4-4541-4314-9AF7-B81035F46567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27674392-B11B-46EA-9EEA-11FE6FDD07A3}
+	EndGlobalSection
+EndGlobal
