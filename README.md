@@ -8,3 +8,5 @@ Console applications - Usage of Redis, RabbitMQ etc.
 2) Redis applications
 3) Template Method Pattern
 4) Dependency Injection
+5) LRU Cache
+6) MARSRover Problem
