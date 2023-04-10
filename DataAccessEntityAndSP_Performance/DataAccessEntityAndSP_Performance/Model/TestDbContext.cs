@@ -18,7 +18,7 @@ public partial class TestDbContext : DbContext
     public virtual DbSet<UserInfo> UserInfos { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("ConnectionString");
+        => optionsBuilder.UseSqlServer(Environment.GetEnvironmentVariable("DBConnectionString"));
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
