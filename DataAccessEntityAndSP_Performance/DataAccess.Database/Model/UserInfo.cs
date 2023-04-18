@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace DataAccessEntityAndSP_Performance.Model;
+namespace DataAccess.Database.Model;
 
 public partial class UserInfo
 {
@@ -9,7 +8,8 @@ public partial class UserInfo
 
     public string? LastName { get; set; }
 
-    public string? Email { get; set; }
+    [Key]
+    public string Email { get; set; } = null!;
 
     public string? Address1 { get; set; }
 
@@ -21,5 +21,5 @@ public partial class UserInfo
 
     public string? State { get; set; }
 
-    public string? Postalcode { get; set; }
+    public string? PostalCode { get; set; }
 }
