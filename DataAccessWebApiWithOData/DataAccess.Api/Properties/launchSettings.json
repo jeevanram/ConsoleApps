@@ -7,7 +7,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         //Replace <<YOUR_SQL_ConnectionString>> with your connection string value
-        "ConnectionStrings__TestDBSqlConnection": "server=5CG14167R2;database=TestDB;uid=xomeesign-st;pwd=Xome3Sign!!;max pool size=200;MultipleActiveResultSets=true;Encrypt=yes;TrustServerCertificate=True;"
+        "ConnectionStrings__TestDBSqlConnection": "<<YOUR_SQL_ConnectionString>>"
       },
       "dotnetRunMessages": true,
       "applicationUrl": "http://localhost:5296"
