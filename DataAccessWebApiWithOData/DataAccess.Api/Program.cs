@@ -18,6 +18,9 @@ builder.Services.AddControllers()
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddHealthChecks()
+    .AddDbContextCheck<TestDbContext>();
+
 builder.Services.AddDbContext<TestDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("TestDBSqlConnection"),
@@ -43,6 +46,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.MapHealthChecks("/health");
 
 app.UseAuthorization();
 
