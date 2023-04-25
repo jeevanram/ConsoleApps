@@ -10,3 +10,4 @@
 7) .NET CORE API with Telemetry - https://github.com/jeevanram/ConsoleApps/tree/main/CoreWebAPIWithTelemetry
 8) Gift Exchange Problem - https://github.com/jeevanram/ConsoleApps/tree/main/GiftExchangeProblem
 9) URL Shortner Key Generator Service - https://github.com/jeevanram/ConsoleApps/tree/main/KeyGeneratorService
+10) DataAccessWebApiWithOData - Web API with OData - https://github.com/jeevanram/ConsoleApps/tree/main/DataAccessWebApiWithOData
