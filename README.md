@@ -1,6 +1,6 @@
 # ConsoleApps
 1) RabbitMQ applications - https://github.com/jeevanram/ConsoleApps/tree/main/RabbitMQ
-    1) RabbitMQPublisher
+    1) RabbitMQPublisher 
     2) RabbitMQSubscriber 
 2) Redis applications - https://github.com/jeevanram/ConsoleApps/tree/main/Redis
 3) Template Method Pattern - https://github.com/jeevanram/ConsoleApps/tree/main/TemplateMethodPattern
