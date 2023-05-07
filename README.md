@@ -10,4 +10,4 @@
 7) .NET CORE API with Telemetry - https://github.com/jeevanram/ConsoleApps/tree/main/CoreWebAPIWithTelemetry
 8) Gift Exchange Problem - https://github.com/jeevanram/ConsoleApps/tree/main/GiftExchangeProblem
 9) URL Shortner Key Generator Service - https://github.com/jeevanram/ConsoleApps/tree/main/KeyGeneratorService
-10) DataAccessWebApi with OData - Web API with OData - https://github.com/jeevanram/ConsoleApps/tree/main/DataAccessWebApiWithOData
+10) DataAccessWebApi with OData - Web API with Open Data Protocol(ODATA) allows creation and consumption of queryable and interoperable RESTful APIs  - https://github.com/jeevanram/ConsoleApps/tree/main/DataAccessWebApiWithOData
