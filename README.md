@@ -12,3 +12,4 @@
 9) URL Shortner Key Generator Service - https://github.com/jeevanram/ConsoleApps/tree/main/KeyGeneratorService
 10) DataAccessWebApi with OData - Web API with Open Data Protocol(ODATA) allows creation and consumption of queryable and interoperable RESTful APIs  - https://github.com/jeevanram/ConsoleApps/tree/main/DataAccessWebApiWithOData
 11) AzureB2C_WebApp_Client - .NETCore MVC webapp integration with AzureB2C - https://github.com/jeevanram/ConsoleApps/tree/main/AzureB2C_WebApp_Client
+12) AzureB2C_WebApp_ASP.NETFramework_MVC - .NETFramework MVC webapp integration with AzureB2C - https://github.com/jeevanram/ConsoleApps/tree/main/AzureB2C_WebApp_ASP.NETFramework_MVC
