@@ -16,3 +16,4 @@
 
 #References
 1) https://learn.microsoft.com/en-us/azure/active-directory-b2c/quickstart-web-app-dotnet
+2) https://learn.microsoft.com/en-us/azure/active-directory-b2c/enable-authentication-web-application
